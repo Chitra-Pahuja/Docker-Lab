@@ -55,7 +55,6 @@ docker cp <container_id>:/app/confusion_matrix.png .
 
 ## Project Structure
 ```
-Lab1/
 ├── dockerfile
 ├── ReadMe.md
 ├── confusion_matrix.png
